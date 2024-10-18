@@ -971,3 +971,322 @@ Start importing Assets/Sprites/Vegetation/spr_tree3.png using Guid(9256ae576e236
  -> (artifact id: 'ff37398600ff4a15c763db55cdcfdc08') in 0.080990 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 61.247222 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree1.png
+  artifactKey: Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree1.png using Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2cce89372c56ce6df95933cf4050563b') in 0.334696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 72.240270 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree1.png
+  artifactKey: Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree1.png using Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '338af98a58b09398137b1569c1c8d296') in 0.344778 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.984159 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree2.png
+  artifactKey: Guid(2d2fc2308d8bc458b9d242adef50f256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree2.png using Guid(2d2fc2308d8bc458b9d242adef50f256) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b3ddd569dfe2cff1ac9a358d59f2f308') in 0.078110 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 20.631574 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree2.png
+  artifactKey: Guid(2d2fc2308d8bc458b9d242adef50f256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree2.png using Guid(2d2fc2308d8bc458b9d242adef50f256) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dad293d358f71f53bf3a4e55880b3000') in 0.153284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 22.166638 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree3.png
+  artifactKey: Guid(9256ae576e23647558b942bda3f5c75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree3.png using Guid(9256ae576e23647558b942bda3f5c75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8061912df2f45cc4dd959a51e9fe2517') in 0.138474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 476.940572 seconds.
+  path: Assets/Sprites/Vegetation/Bush.png
+  artifactKey: Guid(82d353683231540e39008a166e21811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/Bush.png using Guid(82d353683231540e39008a166e21811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '047eae13924123d1160c8dbedb99b541') in 0.407831 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.353683 seconds.
+  path: Assets/Sprites/Vegetation/tree1.png
+  artifactKey: Guid(f495e24297ca54af1aa10e25b2ec0c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree1.png using Guid(f495e24297ca54af1aa10e25b2ec0c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd7e4609a93a566e3ac6da0d8fcca9314') in 0.079442 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 10.318900 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree3.png
+  artifactKey: Guid(9256ae576e23647558b942bda3f5c75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree3.png using Guid(9256ae576e23647558b942bda3f5c75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '44d0b82f2fb3c9b3685bed7fa8a49f98') in 0.108327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 337.849907 seconds.
+  path: Assets/Sprites/Vegetation/tree.png
+  artifactKey: Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree.png using Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '373fe38274dd84031d15009e98f13343') in 0.320176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 9.019895 seconds.
+  path: Assets/Sprites/Vegetation/tree.png
+  artifactKey: Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree.png using Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eab1c00a04fc659f6442f6810c18f981') in 0.136045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 48.979599 seconds.
+  path: Assets/Sprites/Vegetation/tree.png
+  artifactKey: Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree.png using Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'be38e6bbfbb7336a147707ece2f68426') in 0.299295 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 118.680713 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(8339538d5cd0f45168576eafce175c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(8339538d5cd0f45168576eafce175c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2834386f4c449d5a9a67747217c2db7d') in 0.017728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.888429 seconds.
+  path: Assets/Prefabs/tree.prefab
+  artifactKey: Guid(67268cc4fbf15424eb20788fc8f24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tree.prefab using Guid(67268cc4fbf15424eb20788fc8f24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4992577efddb51abca5fe8c754a6a58f') in 3.211385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 44.870214 seconds.
+  path: Assets/Sprites/Vegetation/Bush.png
+  artifactKey: Guid(82d353683231540e39008a166e21811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/Bush.png using Guid(82d353683231540e39008a166e21811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1033b2e2ed2988d9deb6bd317fa0e1af') in 0.133177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 18.797738 seconds.
+  path: Assets/Sprites/Vegetation/Bush.png
+  artifactKey: Guid(82d353683231540e39008a166e21811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/Bush.png using Guid(82d353683231540e39008a166e21811c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6075556296639ae48c0833303cdafee7') in 0.067411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 448.919777 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_idle.png
+  artifactKey: Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_idle.png using Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '86e5051d3d0d6aac2c4138e294bf34c3') in 0.572286 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 341.807573 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_idle.png
+  artifactKey: Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_idle.png using Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b61649adcdd3a7e4a1e5eb429c969b06') in 0.631593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 77.071814 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_walk.png
+  artifactKey: Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_walk.png using Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4cebdb978ed21a7297273dd027e60e27') in 0.205619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 69.179161 seconds.
+  path: Assets/Sprites/Vegetation/tree.png
+  artifactKey: Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree.png using Guid(19814c14457a54bb2aa05462922b1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '66a6560f80e957bb475b6fcba0a3d2ad') in 0.268746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 34.988257 seconds.
+  path: Assets/Sprites/Vegetation/tree1.png
+  artifactKey: Guid(f495e24297ca54af1aa10e25b2ec0c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree1.png using Guid(f495e24297ca54af1aa10e25b2ec0c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0fced285c9783835d17a9074ee854290') in 0.080211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 34.378222 seconds.
+  path: Assets/Sprites/Vegetation/tree1.png
+  artifactKey: Guid(f495e24297ca54af1aa10e25b2ec0c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/tree1.png using Guid(f495e24297ca54af1aa10e25b2ec0c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '35454a7d97a69f1abef439fc3868bb24') in 0.157767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 22.036624 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree2.png
+  artifactKey: Guid(2d2fc2308d8bc458b9d242adef50f256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree2.png using Guid(2d2fc2308d8bc458b9d242adef50f256) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5972c704548635cde431d566a49b07ad') in 0.143965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.111667 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree1.png
+  artifactKey: Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree1.png using Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5b43269a05fde0c0c74003ec5c835317') in 0.274674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 17.816042 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree1.png
+  artifactKey: Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree1.png using Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a10837a0b86d112187bed9fb764a3be1') in 0.108955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.639232 seconds.
+  path: Assets/Sprites/Vegetation/Bush1.png
+  artifactKey: Guid(6a4c5360b5a7749b9bedb5adbc7a6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/Bush1.png using Guid(6a4c5360b5a7749b9bedb5adbc7a6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'abc763e84131b61e31a0c2921951da62') in 0.073479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.190872 seconds.
+  path: Assets/Sprites/Vegetation/Bush1.png
+  artifactKey: Guid(6a4c5360b5a7749b9bedb5adbc7a6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/Bush1.png using Guid(6a4c5360b5a7749b9bedb5adbc7a6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '095eaccf83cc10ed255c7d5774913ca8') in 0.070006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 26.535850 seconds.
+  path: Assets/Prefabs/tree.prefab
+  artifactKey: Guid(67268cc4fbf15424eb20788fc8f24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tree.prefab using Guid(67268cc4fbf15424eb20788fc8f24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '91f9ec3d2001b3749d31d20208c45ab0') in 0.238327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 120.266779 seconds.
+  path: Assets/Prefabs/Bush.prefab
+  artifactKey: Guid(58ea3a16189f042af82f0da69de2e541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bush.prefab using Guid(58ea3a16189f042af82f0da69de2e541) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9e54b32a167bd81b1c36ad3ee4a0100f') in 0.140936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 294.463102 seconds.
+  path: Assets/Prefabs/spr_tree2.prefab
+  artifactKey: Guid(ec00b089cee0c4c6e84a159c5cfff01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/spr_tree2.prefab using Guid(ec00b089cee0c4c6e84a159c5cfff01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '322228072fc22287198d349a8e8f8967') in 0.394350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 12.230615 seconds.
+  path: Assets/Prefabs/tree1.prefab
+  artifactKey: Guid(b5caa978a3b344ea1a5294e9b73584f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tree1.prefab using Guid(b5caa978a3b344ea1a5294e9b73584f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ab908be8b5e1fb860fa2543c53086c3c') in 0.061832 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 138.074011 seconds.
+  path: Assets/Prefabs/spr_tree1.prefab
+  artifactKey: Guid(b63f9455bbf5c4a01bc53f68cbbbbb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/spr_tree1.prefab using Guid(b63f9455bbf5c4a01bc53f68cbbbbb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0372c3da84802e4f15570481c14716b2') in 0.328527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 54.791183 seconds.
+  path: Assets/Sprites/Vegetation/spr_tree1.png
+  artifactKey: Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/spr_tree1.png using Guid(a05fd0e7b0dd741f284aa4a5f51cac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ff5e8ba09057054ebd110daca08d23fd') in 0.243800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
