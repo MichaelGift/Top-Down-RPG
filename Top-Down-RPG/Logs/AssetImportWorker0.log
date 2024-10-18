@@ -669,3 +669,57 @@ Start importing Assets/Sprites/Side animations/spr_player_right_attack.png using
  -> (artifact id: '9e2d729dee3766feaa44de55ce3e7a8e') in 0.222365 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 416.747675 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(dc2e3f7432e3f42c48c48fa064fbb512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(dc2e3f7432e3f42c48c48fa064fbb512) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2f101c0cee8106cda2b933a47af2478f') in 0.025715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.256826 seconds.
+  path: Assets/Animations/Player
+  artifactKey: Guid(7ab54258b2dd346f592b0316f3494462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player using Guid(7ab54258b2dd346f592b0316f3494462) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '10bf7950db22ac07c2e5dfa0d8ada860') in 0.021512 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 17.065293 seconds.
+  path: Assets/Animations/Player/Player.controller
+  artifactKey: Guid(0c591a5b090144b158f750951c4a2cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Player.controller using Guid(0c591a5b090144b158f750951c4a2cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e51183b22131ae8055b55ef9bf74c379') in 0.195743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 14.560253 seconds.
+  path: Assets/Animations/Player/Id.anim
+  artifactKey: Guid(104368d97dedf44f6ba245095d21813e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Id.anim using Guid(104368d97dedf44f6ba245095d21813e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd547372e5c059ad25d900a5186096bcd') in 0.144955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.468057 seconds.
+  path: Assets/Animations/Player/Idle.anim
+  artifactKey: Guid(104368d97dedf44f6ba245095d21813e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Idle.anim using Guid(104368d97dedf44f6ba245095d21813e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '70575dd80d013198006d9a4b6e07634e') in 0.018900 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 15.633661 seconds.
+  path: Assets/Animations/Player/Running.anim
+  artifactKey: Guid(6a7564eb084ce430a8bc8b8d5c258bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Running.anim using Guid(6a7564eb084ce430a8bc8b8d5c258bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '10f50a1a815cdd6537d4b58c23b44325') in 0.019255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
