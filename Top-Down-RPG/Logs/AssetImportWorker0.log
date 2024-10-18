@@ -550,3 +550,122 @@ Start importing Assets/Scripts/PlayerController.cs using Guid(835b86d6bb20e41e58
  -> (artifact id: 'ae391288fd0e7c47be88b9516bc07fec') in 0.020377 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 667.524707 seconds.
+  path: Assets/Sprites/Side animations
+  artifactKey: Guid(75ab8af22b9b44a61ac8583948d6bba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations using Guid(75ab8af22b9b44a61ac8583948d6bba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8d004f59d2bfe75cdf356852fd38d457') in 0.035526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.862152 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_idle.png
+  artifactKey: Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_idle.png using Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3d285bcb47e150421befd0d434eb7a32') in 1.641501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.845745 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_attack.png
+  artifactKey: Guid(3f46a2725d030488297f755f706f7fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_attack.png using Guid(3f46a2725d030488297f755f706f7fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1768e7a49c406fadd3f80ef2c9f9ef0b') in 0.096069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.150560 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_walk.png
+  artifactKey: Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_walk.png using Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5338fef230ce94cda9048f5892bc484f') in 0.084718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 211.340065 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_attack.png
+  artifactKey: Guid(3f46a2725d030488297f755f706f7fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_attack.png using Guid(3f46a2725d030488297f755f706f7fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7a34b649fe0a68b83bec66e729ac52ba') in 0.139913 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.152798 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_idle.png
+  artifactKey: Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_idle.png using Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c1c15d83d111352f61e1fc40bf441d76') in 0.053520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 74.606633 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_idle.png
+  artifactKey: Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_idle.png using Guid(10b81ac4392004a6ba78a03fe0d8bf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e823ae8862c694cffc573ea07eb01ebe') in 0.613861 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 100.933134 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_walk.png
+  artifactKey: Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_walk.png using Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8a2119b4e88022373b4ad067271a573c') in 0.134538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.242537 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_hit.png
+  artifactKey: Guid(e04e0d67e0d5144058150fc23350e859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_hit.png using Guid(e04e0d67e0d5144058150fc23350e859) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a7b581a626c904d8156f82208393ff66') in 0.060181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 25.043543 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_walk.png
+  artifactKey: Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_walk.png using Guid(d374779db1f96471eb5f27c021eb5b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'afac68a9ae15b74c3227e84627df073a') in 0.292595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 24.201314 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_hit.png
+  artifactKey: Guid(e04e0d67e0d5144058150fc23350e859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_hit.png using Guid(e04e0d67e0d5144058150fc23350e859) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '07d86e61dc8fd18c7f3c1e8a8365e82f') in 0.117430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 27.470094 seconds.
+  path: Assets/Sprites/Side animations/spr_player_right_attack.png
+  artifactKey: Guid(3f46a2725d030488297f755f706f7fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Side animations/spr_player_right_attack.png using Guid(3f46a2725d030488297f755f706f7fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9e2d729dee3766feaa44de55ce3e7a8e') in 0.222365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
