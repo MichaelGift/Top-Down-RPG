@@ -886,3 +886,22 @@ Start importing Assets/Animations/Player/Running.anim using Guid(6a7564eb084ce43
  -> (artifact id: '2d2496230bfe18220b9f5e46d4514383') in 0.005682 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 809.003739 seconds.
+  path: Assets/Sprites/Vegetation
+  artifactKey: Guid(a5f800450ff0448f4adf3d0050f6d56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation using Guid(a5f800450ff0448f4adf3d0050f6d56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fe0ffa2265420f85383f90cea8c73c24') in 0.052117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.780694 seconds.
+  path: Assets/Sprites/Vegetation/Bush1.png
+  artifactKey: Guid(6a4c5360b5a7749b9bedb5adbc7a6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Vegetation/Bush1.png using Guid(6a4c5360b5a7749b9bedb5adbc7a6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8c1c1ee26e9801474d2279a2dac7c022') in 1.690701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
