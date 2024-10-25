@@ -850,3 +850,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/Cinemachine3rdPersonFollow.cs: 4600bac2bdf6b37d80e86f9aa5a413c3 -> 
   custom:scripting/precompiled-assembly-types:Assembly-CSharp: 93a07a7716e045a0c7b55c4b0cdcdfac -> 13f757522662103448479a89863b8235
   custom:scripting/monoscript/fileName/SaveDuringPlay.cs: de39f1962b337699845d3d8a2e8f5bde -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3201.683907 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2a50000527dc0c561b95148eeb7bc7d6') in 0.118790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
