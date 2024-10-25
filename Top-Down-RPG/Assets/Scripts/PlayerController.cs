@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    public static PlayerController Instance;
     [SerializeField] private float moveSpeed = 1f;
     
     private PlayerControls playerControls;
@@ -19,6 +20,7 @@ public class PlayerController : MonoBehaviour
 
     private void Awake()
     {
+        if (Instance == null) Instance = this;
         playerControls = new PlayerControls();
         rb = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
