@@ -13,6 +13,10 @@ public class PlayerController : MonoBehaviour
     private Animator myAnimator;
     private SpriteRenderer mySpriteRenderer;
 
+    public bool FacingLeft { get { return isFacingLeft; } private set { isFacingLeft = value;} }
+
+    private bool isFacingLeft = false;
+
     private void Awake()
     {
         playerControls = new PlayerControls();
@@ -63,10 +67,12 @@ public class PlayerController : MonoBehaviour
         if (mousePosition.x < playerPositionOnScreen.x)
         {
             mySpriteRenderer.flipX = true;
+            FacingLeft = true;
         }
         else
         {
             mySpriteRenderer.flipX = false;
+            FacingLeft = false;
         }
     }
 }
