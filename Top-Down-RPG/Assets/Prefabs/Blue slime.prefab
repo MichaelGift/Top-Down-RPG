@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 772034762486195234}
   - component: {fileID: 16647153257486707}
   - component: {fileID: 3338870930709809389}
+  - component: {fileID: 7689686125331862169}
   m_Layer: 0
   m_Name: Blue slime
   m_TagString: Untagged
@@ -166,7 +167,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
-  knockback: {fileID: 0}
 --- !u!114 &4170514473043060826
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -227,4 +227,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   recoveryTime: 0.2
-  rb: {fileID: 0}
+--- !u!114 &7689686125331862169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6939445546036161467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ff8d8fb4e622489691f4b976ab2749c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whiteFlashMat: {fileID: 2100000, guid: b896cf5c95a94407f9eb84a84d41c52d, type: 2}
+  flashDuration: 0.2
