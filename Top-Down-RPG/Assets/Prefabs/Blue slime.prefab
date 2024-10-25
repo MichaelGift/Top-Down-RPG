@@ -15,6 +15,8 @@ GameObject:
   - component: {fileID: 6810347105341064507}
   - component: {fileID: 4170514473043060826}
   - component: {fileID: 772034762486195234}
+  - component: {fileID: 16647153257486707}
+  - component: {fileID: 3338870930709809389}
   m_Layer: 0
   m_Name: Blue slime
   m_TagString: Untagged
@@ -164,6 +166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2
+  knockback: {fileID: 0}
 --- !u!114 &4170514473043060826
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -198,3 +201,30 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &16647153257486707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6939445546036161467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050dfdcb13273479a9d9cd1244eb43aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 3
+--- !u!114 &3338870930709809389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6939445546036161467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20b6feacc91348b9bfd761b94df3aac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  recoveryTime: 0.2
+  rb: {fileID: 0}
