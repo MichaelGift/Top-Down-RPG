@@ -1524,3 +1524,41 @@ Start importing Assets/TileMap/Sand.asset using Guid(765d8e976c13147d7853c7d5f8d
  -> (artifact id: '9f60ef1da986d7b8d980866d5f216d5c') in 0.063548 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 124
+========================================================================
+Received Import Request.
+  Time since last request: 70.350433 seconds.
+  path: Assets/TileMap/Hill 1.asset
+  artifactKey: Guid(cfbbb6014b5a54326bb80d38b31ae102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/Hill 1.asset using Guid(cfbbb6014b5a54326bb80d38b31ae102) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '73387763c0df710d20bc75eb245511de') in 0.074428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 124
+========================================================================
+Received Import Request.
+  Time since last request: 5.758924 seconds.
+  path: Assets/TileMap/Water.asset
+  artifactKey: Guid(cfbbb6014b5a54326bb80d38b31ae102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/Water.asset using Guid(cfbbb6014b5a54326bb80d38b31ae102) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd5aef1852a4316b75631919854f39f3c') in 0.049706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 124
+========================================================================
+Received Import Request.
+  Time since last request: 588.350361 seconds.
+  path: Assets/TileMap/GrassLands.prefab
+  artifactKey: Guid(26f4ec51bc015452595d922f877177fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/GrassLands.prefab using Guid(26f4ec51bc015452595d922f877177fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e6db23d7abb3a14fb39e9d4b40806fba') in 0.263200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 252
+========================================================================
+Received Import Request.
+  Time since last request: 635.966227 seconds.
+  path: Assets/TileMap/GrassLands.prefab
+  artifactKey: Guid(26f4ec51bc015452595d922f877177fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/GrassLands.prefab using Guid(26f4ec51bc015452595d922f877177fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd1894d2955428fe754dc51c11ee2b927') in 0.526018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 252

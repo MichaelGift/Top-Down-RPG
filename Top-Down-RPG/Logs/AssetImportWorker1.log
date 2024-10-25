@@ -1094,3 +1094,12 @@ Start importing Assets/TileMap/Hill.asset using Guid(e209b365335494e2aabcec6cc96
  -> (artifact id: '10e5b946388e09cdb15a8ee95d617beb') in 3.478219 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 125
+========================================================================
+Received Import Request.
+  Time since last request: 2317.693489 seconds.
+  path: Assets/TileMap/Water.asset
+  artifactKey: Guid(cfbbb6014b5a54326bb80d38b31ae102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/Water.asset using Guid(cfbbb6014b5a54326bb80d38b31ae102) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '204deb01566258cee5f079a8951b722a') in 0.330629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 124
