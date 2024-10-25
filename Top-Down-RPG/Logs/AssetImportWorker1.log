@@ -1085,3 +1085,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/Cinemachine3rdPersonFollow.cs: 4600bac2bdf6b37d80e86f9aa5a413c3 -> 
   custom:scripting/precompiled-assembly-types:Assembly-CSharp: 93a07a7716e045a0c7b55c4b0cdcdfac -> 13f757522662103448479a89863b8235
   custom:scripting/monoscript/fileName/SaveDuringPlay.cs: de39f1962b337699845d3d8a2e8f5bde -> 
+========================================================================
+Received Import Request.
+  Time since last request: 24495.343232 seconds.
+  path: Assets/TileMap/Hill.asset
+  artifactKey: Guid(e209b365335494e2aabcec6cc965188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/Hill.asset using Guid(e209b365335494e2aabcec6cc965188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '10e5b946388e09cdb15a8ee95d617beb') in 3.478219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 125
