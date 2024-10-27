@@ -4,29 +4,29 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Singleton<PlayerController>
 {
-    public static PlayerController Instance;
     [SerializeField] private float moveSpeed = 1f;
     [SerializeField] private float dashDuration = 0.1f;
     [SerializeField] private float dashCooldown = 0.5f;
     [SerializeField] private float dashSpeed = 5f;
     [SerializeField] private TrailRenderer dashTrail;
-    
+
     private PlayerControls playerControls;
     private Vector2 movementInput;
     private Rigidbody2D rb;
     private Animator myAnimator;
     private SpriteRenderer mySpriteRenderer;
 
-    public bool FacingLeft { get { return isFacingLeft; } private set { isFacingLeft = value;} }
+    public bool FacingLeft { get { return isFacingLeft; } private set { isFacingLeft = value; } }
 
     private bool isFacingLeft = false;
     private bool isDashing = false;
 
-    private void Awake()
+    protected override void Awake()
     {
-        if (Instance == null) Instance = this;
+        base.Awake();
+        
         playerControls = new PlayerControls();
         rb = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
@@ -61,11 +61,6 @@ public class PlayerController : MonoBehaviour
     private void OnEnable()
     {
         playerControls.Enable();
-    }
-
-    private void OnDisable()
-    {
-        playerControls.Disable();
     }
 
     private void Update()
