@@ -11,10 +11,12 @@ public class Spawn : MonoBehaviour
     private void Start()
     {
 
-        if (activeLevelIndex == SceneManager.GetActiveScene().buildIndex){
+        if (activeLevelIndex == SceneManager.GetActiveScene().buildIndex)
+        {
             PlayerController.Instance.transform.position = transform.position;
             CameraController.Instance.TrackPlayer();
+            UiFader.Instance.FadeFromBlack();
         }
-        
+
     }
 }
