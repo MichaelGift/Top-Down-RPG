@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 7083
+  controlID: 7259
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 7027
+  controlID: 7203
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 7003
+  controlID: 7179
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -238,24 +238,24 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f67c0000
-      m_LastClickedID: 31990
-      m_ExpandedIDs: 6ec9ffffe8faffff04750000187d00004a7d0000
+      scrollPos: {x: 0, y: 78}
+      m_SelectedIDs: 6a29ffff
+      m_LastClickedID: -54934
+      m_ExpandedIDs: 3662ffff6063ffffb264ffffec65ffff6ec9ffffe8faffff04750000187d00004a7d00006091000090910000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: tree1
+        m_OriginalName: tree1
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -40406
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -689,9 +689,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.7928166, y: 2.6626854, z: 0.22654791}
+    m_Target: {x: -0.75986534, y: 3.9872947, z: -0.13384627}
     speed: 2
-    m_Value: {x: 5.7969227, y: 2.6745377, z: 0.22666731}
+    m_Value: {x: -0.75986534, y: 3.9872947, z: -0.13384627}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -741,9 +741,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 15.932802
+    m_Target: 14.891249
     speed: 2
-    m_Value: 15.920861
+    m_Value: 14.880089
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1108,7 +1108,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Misc
+    - Assets/Prefabs/Vegetation
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1116,16 +1116,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scripts/Misc
+  - Assets/Prefabs/Vegetation
   m_LastFoldersGridSize: 96
   m_LastProjectPath: /Users/Michael/Documents/GitHub/Top-Down-RPG/Top-Down-RPG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 66.49652}
-    m_SelectedIDs: ae7b0000
-    m_LastClickedID: 31662
-    m_ExpandedIDs: 00000000727600000e78000000ca9a3bffffff7f
+    m_SelectedIDs: 52780000
+    m_LastClickedID: 30802
+    m_ExpandedIDs: 00000000727600000a7800000e78000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1178,9 +1178,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: f67c0000
-    m_LastClickedInstanceID: 31990
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 6a29ffff
+    m_LastClickedInstanceID: -54934
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000629c000086b40000806b0000547700001074000048770000c47e000034730000b87e000036740000f0840000ca780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

@@ -1354,3 +1354,75 @@ Start importing Assets/Scripts/Misc/Parallax.cs using Guid(c0dbfdc47f01540d99030
  -> (artifact id: '0fb4cf72d5833ac3dd47d238c119d18a') in 0.008103 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2302.527390 seconds.
+  path: Assets/Prefabs/Vegetation/Bush1.prefab
+  artifactKey: Guid(d51d142eaadbe442483d69e458edb820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/Bush1.prefab using Guid(d51d142eaadbe442483d69e458edb820) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'adb8fd7f3f9736925a86782d32b9521a') in 0.006653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001339 seconds.
+  path: Assets/Prefabs/Vegetation/tree.prefab
+  artifactKey: Guid(67268cc4fbf15424eb20788fc8f24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/tree.prefab using Guid(67268cc4fbf15424eb20788fc8f24b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '21a984abea98772880d04713e6287430') in 0.004683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Prefabs/Vegetation/tree1.prefab
+  artifactKey: Guid(b5caa978a3b344ea1a5294e9b73584f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/tree1.prefab using Guid(b5caa978a3b344ea1a5294e9b73584f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc153a60607cb3e8f720284576e5edbf') in 0.002370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Prefabs/Vegetation/spr_tree3.prefab
+  artifactKey: Guid(6f1b856ae451442699282eac04b81b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/spr_tree3.prefab using Guid(6f1b856ae451442699282eac04b81b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e3dca2ae76613c238efe272a4db2216') in 0.003947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Prefabs/Vegetation/spr_tree2.prefab
+  artifactKey: Guid(ec00b089cee0c4c6e84a159c5cfff01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/spr_tree2.prefab using Guid(ec00b089cee0c4c6e84a159c5cfff01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '53589fccdba515f0d837c5f8c2a5d026') in 0.002754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 282.693557 seconds.
+  path: Assets/Prefabs/Vegetation/Bush1.prefab
+  artifactKey: Guid(d51d142eaadbe442483d69e458edb820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/Bush1.prefab using Guid(d51d142eaadbe442483d69e458edb820) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'adb8fd7f3f9736925a86782d32b9521a') in 0.024694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Prefabs/Vegetation/tree1.prefab
+  artifactKey: Guid(b5caa978a3b344ea1a5294e9b73584f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/tree1.prefab using Guid(b5caa978a3b344ea1a5294e9b73584f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bc153a60607cb3e8f720284576e5edbf') in 0.003253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Prefabs/Vegetation/spr_tree3.prefab
+  artifactKey: Guid(6f1b856ae451442699282eac04b81b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Vegetation/spr_tree3.prefab using Guid(6f1b856ae451442699282eac04b81b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e3dca2ae76613c238efe272a4db2216') in 0.002565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
